@@ -15,7 +15,7 @@ Fora as duas paixões que já citei, no meu tempo livre gosto de ficar de boa ol
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" /> Aplicações Web
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="16" /> Aplicações Nativas
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="16" /> Computação Gráfica
-- 🤔 Preciso de ajuda com Devops
+- 🤔 Preciso de ajuda com DevOps
 - 💬 Pode pedir ajuda para mim sobre React, Javascritpt, HTML e CSS
 - 💰 Gosto de falar sobre educação financeira
 - 🎉 Gosto de olhar anime e tudo que ambienta o mundo 🧙‍♂️ High Fantasy
