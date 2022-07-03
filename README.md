@@ -43,6 +43,6 @@ Fora as duas paixões que já citei, no meu tempo livre gosto de ficar de boa ol
 
 
 ### 📬 Pode me contatar
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/vitormarco)](https://github.com/vitormarco) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-marco/)](https://www.linkedin.com/in/vitor-marco/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/vitormarco)](https://github.com/vitormarco) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoradrianomarco@gmail.com)](mailto:vitoradrianomarco@gmail.com)
