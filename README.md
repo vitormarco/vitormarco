@@ -1,7 +1,7 @@
 ### Olá, eu sou Vítor 🤙
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/qqvSGf80ydPchLgyDK/giphy.gif" width="60"> 
-Sou estudande de bacharel em **Ciência da Computação** na [Unisinos](https://www.unisinos.br/).
+Sou bacharel em **Ciência da Computação** na [Unisinos](https://www.unisinos.br/).
 Minha paixão pelo desenvolvimento está estritamente correlacionada com outra paixão, os jogos. Sempre gostei muito de jogos de video game, minha curiosidade me levou questionar o que acontecia por trás daqueles jogos que tanto gostava de passar horas; assim, acabei descobrindo mundo do desenvolvimento.
 Fora as duas paixões que já citei, no meu tempo livre gosto de ficar de boa olhando as nuvens ou passando tempo com minha namorada 👸,Snowbell 🐱, Ghost e Floki 🐕. Meu gosto musical é praticamente o bom e velho **Rock n' Roll**, normalmente é essa [playlist](https://open.spotify.com/playlist/7omgqqNJ4RfQxTZUunkWLA?si=4f6022f2467a44c9) que escuto quando estou desenvolvendo 😅.
 
